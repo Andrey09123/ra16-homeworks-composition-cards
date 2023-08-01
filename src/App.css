@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+h3 {
+  text-align: center;
+}
+
+.card-group {
+  margin-bottom: 2rem;
+  justify-content: space-between;
+}
+
+.container {
+  flex-wrap: wrap;
+}
+
+.w-30 {
+  width: 32%;
+}
